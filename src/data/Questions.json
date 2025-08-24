@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of France?",
+      "options": ["London", "Paris", "Berlin", "Madrid"],
+      "correctAnswer": 1,
+      "topic": "geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": 2,
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+      "correctAnswer": 2,
+      "topic": "art",
+      "difficulty": "medium"
+    },
+    {
+      "id": 3,
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Saturn", "Jupiter", "Neptune"],
+      "correctAnswer": 2,
+      "topic": "science",
+      "difficulty": "easy"
+    },
+    {
+      "id": 4,
+      "question": "In which year did World War II end?",
+      "options": ["1943", "1945", "1947", "1950"],
+      "correctAnswer": 1,
+      "topic": "history",
+      "difficulty": "medium"
+    },
+    {
+      "id": 5,
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "correctAnswer": 2,
+      "topic": "science",
+      "difficulty": "easy"
+    },
+    {
+      "id": 6,
+      "question": "Which country won the 2018 FIFA World Cup?",
+      "options": ["Germany", "Brazil", "France", "Spain"],
+      "correctAnswer": 2,
+      "topic": "sports",
+      "difficulty": "medium"
+    },
+    {
+      "id": 7,
+      "question": "Who wrote 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "Mark Twain", "J.D. Salinger", "Ernest Hemingway"],
+      "correctAnswer": 0,
+      "topic": "literature",
+      "difficulty": "medium"
+    },
+    {
+      "id": 8,
+      "question": "What is the tallest mountain in the world?",
+      "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+      "correctAnswer": 2,
+      "topic": "geography",
+      "difficulty": "easy"
+    },
+    {
+      "id": 9,
+      "question": "Which element has the atomic number 1?",
+      "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"],
+      "correctAnswer": 1,
+      "topic": "science",
+      "difficulty": "easy"
+    },
+    {
+      "id": 10,
+      "question": "In which city would you find the Colosseum?",
+      "options": ["Athens", "Rome", "Cairo", "Istanbul"],
+      "correctAnswer": 1,
+      "topic": "history",
+      "difficulty": "easy"
+    }
+  ]
+}
